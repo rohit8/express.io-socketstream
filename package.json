@@ -1,6 +1,6 @@
 {
     "name": "express.io",
-    "version": "1.1.12",
+    "version": "0.0.2",
     "description": "Realtime-web framework for nodejs",
     "keywords": ["realtime", "web", "framework", "express.io", "express", "socket.io", "badass"],
     "homepage": "http://express-io.org",
@@ -24,7 +24,7 @@
         "url": "https://github.com/pharcosyle"
     }],
     "dependencies": {
-        "express": "~3.1.0",
+        "express": "3.3.5",
         "socket.io": "~0.9.13",
         "async": "0.1.22",
         "underscore": "1.4.3",
